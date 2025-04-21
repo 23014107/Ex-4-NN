@@ -167,9 +167,11 @@ print(confusion_matrix(testing_b,predicted_values))
 print(classification_report(testing_b,predicted_values))
 ```
 
-<H3>Output:</H3>
-![Screenshot 2025-04-21 130826](https://github.com/user-attachments/assets/2186edf2-8909-4c42-889f-9d6db9be4f64)
-![Screenshot 2025-04-21 130839](https://github.com/user-attachments/assets/98e12cbc-9980-45a6-9bd2-8b23006200a5)
+Output:
+![image](https://github.com/user-attachments/assets/dd642cad-965f-4697-af50-ee47da8c7ef8)
+![image](https://github.com/user-attachments/assets/a2d3e0b6-9c04-4c34-8417-f9619fa20e9e)
+
+
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
